@@ -21,7 +21,7 @@
 - 🌐 I build production-grade **web experiences** — from luxury hospitality UIs to AI-powered apps
 - ☁️ Passionate about **cloud architecture**, IaC with Terraform, and scalable infrastructure
 - 🚀 Currently exploring MLOps, agentic AI systems, and multi-cloud deployments
-- 📫 Reach me: **mirshadvp7377@email.com**
+- 📫 Reach me: **mirshadvp225@email.com**
 
 ---
 
