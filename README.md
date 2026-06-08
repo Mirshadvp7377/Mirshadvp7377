@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://mirshadbp.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mirshadbp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Punjab%2C%20India-orange?style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=grey" />
+  <a href="https://mirshadvp-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mirshadvp7377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Punjab%2C%20India-orange?style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Mirshadvp7377&style=flat&color=grey" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 - 🌐 I build production-grade **web experiences** — from luxury hospitality UIs to AI-powered apps
 - ☁️ Passionate about **cloud architecture**, DevOps pipelines, and scalable infrastructure
 - 🚀 Always working on something new — currently exploring MLOps and agentic AI systems
-- 📫 Reach me: **mirshadbp@email.com**
+- 📫 Reach me: **mirshadvp225@email.com**
 
 ---
 
