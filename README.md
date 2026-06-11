@@ -84,9 +84,9 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Mirshadvp7377&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=Mirshadvp7377&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mirshadvp7377&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mirsshaad&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=mirsshaad&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mirsshaad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
 ---
